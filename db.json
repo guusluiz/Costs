@@ -65,6 +65,28 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "62db",
+      "name": "Piano",
+      "budget": "2000",
+      "category": {
+        "id": "2",
+        "bane": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "cc41",
+      "name": "Gustavo",
+      "budget": "12121",
+      "category": {
+        "id": "2",
+        "bane": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
